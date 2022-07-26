@@ -102,8 +102,10 @@
 * 蓝牙模块
 
 # 软件
+* RT-Thread
 * ~lua~
-* microPython
+* ~microPython~
+* [pikascript](https://github.com/pikastech/pikascript/)
 * 集成鼠标控制
 * 光标控制
 * 自定义组合键
@@ -114,3 +116,5 @@
 
 # 问题
 * 钱
+* 先开发smartknob项目
+* 3D打印机
