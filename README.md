@@ -104,8 +104,8 @@
 # 软件
 * RT-Thread
 * ~lua~
-* ~microPython~
-* [pikascript](https://github.com/pikastech/pikascript/)
+* microPython
+* ~[pikascript](https://github.com/pikastech/pikascript/)~
 * 集成鼠标控制
 * 光标控制
 * 自定义组合键
