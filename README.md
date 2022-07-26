@@ -103,8 +103,8 @@
 
 # 软件
 * RT-Thread
-* ~lua~
-* microPython
+* lua
+* ~microPython~
 * ~[pikascript](https://github.com/pikastech/pikascript/)~
 * 集成鼠标控制
 * 光标控制
