@@ -102,9 +102,9 @@
 * 蓝牙模块
 
 # 软件
-* RT-Thread
-* lua
-* ~microPython~
+* RT-Thread 
+* ~lua~
+* microPython RTT内有移植
 * ~[pikascript](https://github.com/pikastech/pikascript/)~
 * 集成鼠标控制
 * 光标控制
