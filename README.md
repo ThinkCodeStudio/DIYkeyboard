@@ -102,9 +102,10 @@
 * 蓝牙模块
 
 # 软件
-* RT-Thread 
+* ~RT-Thread~ 
+* openHarmony 有js可编程框架
 * ~lua~
-* microPython RTT内有移植
+* ~microPython RTT内有移植~
 * ~[pikascript](https://github.com/pikastech/pikascript/)~
 * 集成鼠标控制
 * 光标控制
