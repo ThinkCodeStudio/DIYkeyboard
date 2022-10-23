@@ -95,28 +95,30 @@
 
 
 # 硬件
+* AT32F435 288Mhz DSP FPU ?
 * [smartknob](https://github.com/scottbez1/smartknob)旋钮
 * oled屏 *1
 * 编码器 *4
-* 拨码器 *1
-* 蓝牙模块
+* 拨码器 *2
+* 0.45oled 键帽
+* 蓝牙模块 esp系列
 
 # 软件
-* ~RT-Thread~ 
-* openHarmony 有js可编程框架
+* RT-Thread
+* ~openHarmony 有js可编程框架~
 * ~lua~
-* ~microPython RTT内有移植~
+* microPython RTT内有移植
 * ~[pikascript](https://github.com/pikastech/pikascript/)~
-* 集成鼠标控制
-* 光标控制
+* ~集成鼠标控制~
+* ~光标控制~
 * 自定义组合键
 * 键位录制
 * 按键精灵
 * 对应软件功能切换
 * 快速切换蓝牙连接设备
-* 参考使用稚晖的固件 未开源
+* ~参考使用稚晖的固件 未开源~
 
 # 问题
 * 钱
 * 先开发smartknob项目
-* 3D打印机
+* ~3D打印机~
