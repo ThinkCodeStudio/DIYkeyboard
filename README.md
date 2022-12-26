@@ -106,7 +106,7 @@ cpu选型:
 
 # 硬件
 * AT32F435 288Mhz DSP FPU
-* [smartknob](https://github.com/scottbez1/smartknob)旋钮
+* ~[smartknob](https://github.com/scottbez1/smartknob)旋钮~
 * oled屏 *1
 * 编码器 *4
 * 拨码器 *2
@@ -130,5 +130,5 @@ cpu选型:
 
 # 问题
 * 钱
-* 先开发smartknob项目
+* ~先开发smartknob项目~
 * ~3D打印机~
