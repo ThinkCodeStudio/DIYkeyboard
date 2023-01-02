@@ -10,7 +10,7 @@ cpu选型:
 
 残血版:
 砍去 蓝牙 和 智慧旋钮底座
-* AT32F403A 
+* AT32F435
 
 # MCU
 
@@ -103,15 +103,26 @@ cpu选型:
 
 **注意功耗计算**
 
+带蓝牙的单片机引脚都少
+
+# 外观
+透明亚克力板铜螺柱支撑
+四层：
+  亚克力上板
+  亚克力保护板
+  PCB
+  亚克力底板
+  
 
 # 硬件
 * AT32F435 288Mhz DSP FPU
 * ~[smartknob](https://github.com/scottbez1/smartknob)旋钮~
-* oled屏 *1
-* 编码器 *4
+* tft-lcd屏 *1
+* 编码器 *6
 * 拨码器 *2
 * 0.45oled 键帽
 * 蓝牙模块 esp系列
+* 手势触摸条？
 
 # 软件
 * RT-Thread
@@ -119,16 +130,15 @@ cpu选型:
 * ~lua~
 * microPython RTT内有移植
 * ~[pikascript](https://github.com/pikastech/pikascript/)~
-* 集成鼠标控制
-* 光标控制
+* ~集成鼠标控制~
+* ~光标控制~
 * 自定义组合键
 * 键位录制
-* 按键精灵
 * 对应软件功能切换
 * 快速切换蓝牙连接设备
 * ~参考使用稚晖的固件~
 
 # 问题
-* 钱
+* ~钱~
 * ~先开发smartknob项目~
 * ~3D打印机~
