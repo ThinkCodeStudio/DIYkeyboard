@@ -91,7 +91,7 @@
 * [ ] USB 3.0 HUB GL3520
 * [ ] 编码器
 * [ ] 磁连接触点 (SPI&uart, 四个方向, FFC 30cm 24P， 设计转接板)
-* [ ] 电池管理电路
+* [ ] 电池管理电路 [电池](https://item.taobao.com/item.htm?spm=a230r.1.14.48.32493d7ehBpi5Y&id=640378174518&ns=1&abbucket=18#detail)
 * [ ] RGB灯 WS2812
 * [x] usb type-c (偏右侧靠近芯片)
 * [ ] 蓝牙模块 (暂时没有选型) 
@@ -118,6 +118,7 @@
 * pikaScript
 * lvgl
 * cherry usb ?
+* ws2812b
 
 ## 功能
 
