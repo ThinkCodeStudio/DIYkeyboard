@@ -86,7 +86,7 @@
     * BOOT电路
 * [x] Flash EN25QH128A
 * [x] SD卡
-* [x] 拨码管 12pin*2 74HC165
+* [x] ~~拨码管 12pin*2 74HC165~~
 * [x] ST7789 8080 设计底板 [LCD](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-23991449502.11.6928400cWlnPG5&id=636496300109)
 * [x] USB 3.0 HUB GL3520
 * [x] 编码器
