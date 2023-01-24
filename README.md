@@ -78,7 +78,7 @@
 ![port](img/b.png)
 
 ## 硬件
-* [x] AT32F435ZMT7
+* [x] AT32F435ZMT7 (单片机问题，外设功耗大)
     * RTC电路
     * 时钟电路
     * debug电路
