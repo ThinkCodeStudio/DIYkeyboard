@@ -148,7 +148,7 @@
     * fs
 * pikaScript
 * lvgl
-* cherry usb ?
+* cherry usb
 * ws2812b
 
 ## 功能
